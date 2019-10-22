@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>17/10/19: First bookclub meeting</title>
+      <title>First bookclub meeting</title>
       <link>https://ptgregg.github.io/post/chapter-1/</link>
-      <pubDate>Wed, 09 Oct 2019 10:58:08 -0400</pubDate>
+      <pubDate>Sun, 20 Oct 2019 10:58:08 -0400</pubDate>
       
       <guid>https://ptgregg.github.io/post/chapter-1/</guid>
-      <description></description>
+      <description>We had a very successfull bookclub last week to kick off the new term! Andrew was our first speaker with an introduction to Assembley. We learnt about how programming in Assembley can be beneficial if you want to have more control over memory and storage locations and can be more efficient as the code is closer to the machine language that can be directly read by the computer. However this comes at a price as it is a lot more invoved to code than the high-level languages, such as python, that we are used too.</description>
     </item>
     
   </channel>
